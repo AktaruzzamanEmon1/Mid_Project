@@ -1,0 +1,1 @@
+<button style ="background-color: red;"onclick="document.location.href='Logout.php'">Logout</button>
